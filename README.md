@@ -50,7 +50,7 @@ Description - это описание действия на английском
 
 
 ## Статьи и полезные ресурсы
-- Видео Бесконечные возможности конечных автоматов | Введение в "eco-programming" https://youtu.be/6xzn78onzQk
+- Видео Бесконечные возможности конечных автоматов  Введение в "eco-programming" https://youtu.be/6xzn78onzQk
 - Статья Введение в v-agent ориентированное программирование: https://habr.com/ru/post/554014/
 - Статья VAOP как low code инструмент для разработки telegram BOT и не только https://habr.com/ru/post/680160/
 
