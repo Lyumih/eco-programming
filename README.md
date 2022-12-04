@@ -2,7 +2,7 @@
 
 Автор методологии: Валерий Ракитен https://t.me/valrak  
 Чат: https://t.me/evaclick  
-Cайт: https://lyumih.github.io/eco-programming/
+Cайт: https://lyumih.github.io/eco-programming/, https://github.com/Lyumih/eco-programming
 
 ## Содержание
 1. Что такое Экологичное программирование?
@@ -59,4 +59,4 @@ Description - это описание действия на английском
 ## Контакты
 Автор методологии: Валерий Ракитен https://t.me/valrak  
 Чат: https://t.me/evaclick  
-Cайт: https://lyumih.github.io/eco-programming/
+Cайт: https://lyumih.github.io/eco-programming/, https://github.com/Lyumih/eco-programming
